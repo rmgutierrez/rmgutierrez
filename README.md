@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 - <img align="center" alt="Tailwind" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /> **Tailwind CSS**
 - <img align="center" alt="Next.js" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /> **Next.js**
 - <img align="center" alt="MUI" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" /> **MaterialUI**
+- <img align="center" alt="Axios" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" /> **Axios**
 
 #### ⚙️ Backend
 - <img align="center" alt="Python" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> **Python**
@@ -42,11 +43,14 @@ Here are some ideas to get you started:
 - <img align="center" alt="Django" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" /> **Django**
 - <img align="center" alt="PostgreSQL" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> **PostgreSQL**
 - <img align="center" alt="NodeJS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> **Node.js**
+- <img align="center" alt="Appwrite" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/appwrite/appwrite-original.svg" /> **Appwrite**
+- <img align="center" alt="Supabase" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" /> **Supabase**
 
 #### 🔧 Tools
 - <img align="center" alt="Git" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> **Git**
 - <img align="center" alt="Docker" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" /> **Docker**
 - <img align="center" alt="Firebase" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" /> **Firebase**
+- <img align="center" alt="Sentry" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sentry/sentry-original.svg" /> **Sentry**
 
 #### 🤖  AI/ML
 - <img align="center" alt="NumPy" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" /> **NumPy**
@@ -66,5 +70,9 @@ Here are some ideas to get you started:
 - 🌐 [Portfolio Website](https://rmgutierrez.github.io/)  
   A personal portfolio with responsive UI  
   **Tech:** Next.js, Tailwind CSS
+
+- 🤖 [Heart Disease Classifier](https://github.com/rmgutierrez/Heart-Disease-Classification)  
+  This project is focused on predicting the presence of heart disease using machine learning techniques. It leverages multiple classification algorithms and evaluates their performance based on accuracy and confusion matrices.  
+  **Tech:** Python - Numpy, Pandas, scikit-learn, Seaborn
 
 
