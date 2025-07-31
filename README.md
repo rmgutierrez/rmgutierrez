@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - <img align="center" alt="React" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> **React**
 - <img align="center" alt="Tailwind" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /> **Tailwind CSS**
 - <img align="center" alt="Next.js" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /> **Next.js**
-
+- <img align="center" alt="MUI" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" /> **MaterialUI**
 
 #### ⚙️ Backend
 - <img align="center" alt="Python" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> **Python**
